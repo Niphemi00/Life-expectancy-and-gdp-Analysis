@@ -1,2 +1,1 @@
-# Life-expectancy-and-gdp-Analysis
-Analyze GDP and life expectancy data from the WHO and World Bank to explore the relationship between economic growth and health in six countries. Includes visualizations and insights on how GDP impacts life expectancy over time.
+This project analyzes GDP and life expectancy data from the World Health Organization and the World Bank to explore the relationship between economic output and population health. Using data from six countries, the analysis includes visualizations and statistical comparisons to identify trends and correlations between GDP per capita and life expectancy over time.
